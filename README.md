@@ -2,10 +2,10 @@
 
 A Python based program, which consists of a VLC player instance, that can generate color palettes for a specified number of video frames and ultimately combine them into a final color palette group image. (See the visual example below)
 
-![Screenshot](https://andris.gauracs.com/api/files/projects/color_palette_generator/color_palette_generator_frame.jpg)
+![Screenshot](https://gauracs.me/wp-content/uploads/2020/12/color_palette_generator_frame.jpg)
 
 ##### Example of the result image
-![Screenshot](https://andris.gauracs.com/api/files/projects/color_palette_generator/color_palette_generator.jpg)
+![Screenshot](https://gauracs.me/wp-content/uploads/2020/12/color_palette_generator.jpg)
 
 ### Prerequisites
 
